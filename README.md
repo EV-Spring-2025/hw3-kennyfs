@@ -16,6 +16,7 @@ git clone https://github.com/XPandora/PhysGaussian.git
 ## Environment Setup
 Navigate to the "PhysGaussian" directory and follow the instructions under the "Python Environment" section in the official README to set up the environment.
 
+我嘗試很久，但在資工系的 meow1 工作站無法安裝好環境，已在 Discord 尋求協助但無人回應。我家的網速太慢不可能在自己的電腦安裝，所以我無法完成這次的作業。（暫定，若搞定再說）
 
 ## Running the Simulation
 Follow the "Quick Start" section and execute the simulation scripts as instructed. Make sure to verify your outputs and understand the role of physics constraints in the generated dynamics.
